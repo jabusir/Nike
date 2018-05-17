@@ -1,3 +1,4 @@
+#Jehad Abusir 
 import webbrowser, requests, bs4
 from operator import itemgetter, attrgetter
 res = requests.get('https://store.nike.com/us/en_us/pw/mens-clearance-shoes/47Z7puZoi3') 
